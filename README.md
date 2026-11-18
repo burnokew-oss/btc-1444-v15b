@@ -62,6 +62,8 @@ which the hunt proved unreachable for any dip-buy bot on this window
 - `main.ts` — the bot (single file, TypeScript, stdlib only).
 - `LICENSE` — MIT.
 
+Verified grade-local: +$14.22 DEV, 5 trades. Repo: https://github.com/burnokew-oss/btc-1444-v15b
+
 ## How to run
 
 Grade locally with the bounty kit:
